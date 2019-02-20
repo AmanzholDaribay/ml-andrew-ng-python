@@ -1,4 +1,4 @@
-Implementation of "Machine Learning" course (by Andrew N.G.) exercises in python in own manner. The repository contains:
+# Implementation of "Machine Learning" course (by Andrew N.G.) exercises in python in own manner. The repository contains:
 1. machine-learning-ex1:
   * Linear Regression with One Variable
   * Linear Regression with Multiple Variables
