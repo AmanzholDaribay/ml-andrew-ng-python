@@ -8,7 +8,7 @@ def sigmoid(x, theta):
 	"""
 	z = x @ theta
 	h = 1/(1+np.exp(-z))
-	return h
+	return h, z
 
 
 def cost(h, y):
